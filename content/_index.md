@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
-        url: static/uploads/Sanjay_Resume_ucr.pdf
+        url: uploads/Sanjay_Resume_ucr.pdf
     design:
       css_class: dark
       background:
