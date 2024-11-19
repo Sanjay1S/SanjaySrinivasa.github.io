@@ -34,9 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text:  I am currently pursuing a Master’s degree in Computer Science at the University of California, Riverside (UCR), specializing in Artificial Intelligence (AI). With a strong passion for advancing AI technologies, I am focusing on applying cutting-edge methodologies in machine learning, natural language processing (NLP), and computer vision to solve real-world challenges.
-
-Prior to my master’s journey, I accumulated four years of professional experience as a Data Scientist. During this time, I had the opportunity to lead and contribute to impactful projects, including the development of an NLP model tailored for [specific purpose, if applicable, e.g., sentiment analysis, customer feedback analysis, or document processing]. My work involved leveraging state-of-the-art algorithms, fine-tuning pre-trained language models, and implementing scalable solutions to drive business insights and automation.
+      text:  I am currently pursuing a Master’s degree in Computer Science at the University of California, Riverside (UCR), specializing in Artificial Intelligence (AI). With a strong passion for advancing AI technologies, I am focusing on applying cutting-edge methodologies in machine learning, natural language processing (NLP), and computer vision to solve real-world challenges. Prior to my master’s journey, I accumulated four years of professional experience as a Data Scientist. During this time, I had the opportunity to lead and contribute to impactful projects, including the development of an NLP model tailored for [specific purpose, if applicable, e.g., sentiment analysis, customer feedback analysis, or document processing]. My work involved leveraging state-of-the-art algorithms, fine-tuning pre-trained language models, and implementing scalable solutions to drive business insights and automation.
 
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
