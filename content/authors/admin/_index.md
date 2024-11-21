@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sanjay Srinivasa
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sanjay
+last_name: Srinivasa
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
