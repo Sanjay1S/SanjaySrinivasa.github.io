@@ -55,8 +55,8 @@ interests:
 education:
   - area: MS Computer Science
     institution: University of California, Riverside
-    date_start: September 2024
-    date_end: March 2026
+    date_start: 2024-09-20
+    date_end: 2026-09-20
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -64,8 +64,8 @@ education:
       url: 'https://example.com'
   - area: Bachelor of Engineering, Computer Science
     institution: RVCE
-    date_start: August 2017
-    date_end: June 2020
+    date_start: 2017-08-01
+    date_end: 2020-06-01
     summary: |
       GPA: 3.8/4.0 
 
