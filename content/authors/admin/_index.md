@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Masters student at UC Riverside
 
 # Name pronunciation (optional)
 name_pronunciation: Sanjay Srinivasa
@@ -11,7 +11,7 @@ last_name: Srinivasa
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,65 +47,65 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Natural Language Processing
+  - Model Optimization
+  - Large Language Models(LLM)
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Computer Science
+    institution: University of California, Riverside
+    date_start: September 2024
+    date_end: March 2026
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Engineering, Computer Science
+    institution: RVCE
+    date_start: August 2017
+    date_end: June 2020
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.8/4.0 
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Associate AI/ML Engineer
+    company_name: United Health Group - Optum
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Designed and implemented AI solutions, Including fine-tuned language models and RAG             systems, to enhance performance and decision making
+      - Applied model Quantization and optimized CNN architechures for scalable medical imaging         and claims processing
+  - position: Data Scientist
+    company_name: United Health Group - Optum
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Build and deployed ML pipelines for data preprocessing, de-identification, and unsupervised clustering to derive actionable insights from large healthcare datasets.
+      - Collaborated with cloud providers to evaluate genAI models, leveraging zero-shot and few-shot learning techniques.
+   
+      - position: Software engineer
+        company_name: United Health Group - Optum
+        company_url: ''
+        company_logo: ''
+        date_start: 2016-01-01
+        date_end: 2020-12-31
+        summary: |
+          Responsibilities include:
+          - Developed deep learning-based OCR and transcription systems for automating data extraction from documents and audio
+          - Streamlined deployment processes using containerization tools like docker and CI/CD pipelines to support scalable AI applications
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -113,17 +113,29 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: C++
+        icon: chart-bar
+      - name: PyTorch
         icon: chart-bar
       - name: SQL
-        description: ''
-        percent: 40
+        icon: chart-bar
+      - name: Java Script
         icon: circle-stack
+      - name: Pandas
+        icon: chart-bar
+      - name: Docker
+        icon: chart-bar
+      - name: Sklearn
+        icon: chart-bar
+      - name: Statistics
+        icon: chart-bar
+      - name: NumPy
+        icon: chart-bar
+      - name: Linux
+        icon: chart-bar
+      - name: Azure
+        icon: chart-bar
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -144,10 +156,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Hindi
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Kannada
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +195,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Master's student in Computer Science at UCR with 4 years of work experience in AI and ML, Specializing in NLP, computer vision, and machine learning solutions. My expertise includes building retrieval-augmented systems, fine-tuning language models, and developing end-to-end pipelines for scalable data processing. I have a strong background in leveraging AI to solve complex problems, particularly in the healthcare domain, and a proven ability to adapt and innovate across diverse technical challenges. I am passionate about create impactful AI-driven solutions and contributing to transformative technologies.
