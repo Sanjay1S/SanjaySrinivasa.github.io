@@ -27,36 +27,51 @@ sion to prioritize patient collections, increasing hospital collection rates by 
  reduce delays.
 - Developed RAG (Retrieval-Augmented Generation) system with semantic chunking to assist call agents in
  answering provider and patient queries, reducing LLM hallucination and improving response accuracy by 15%.
+</p>
 
  **_Data Scientist_**
+ <p style="text-align: justify;">
 - Collaborated with Google to evaluate generative AI LLMs on Zero-Shot and Few-Shot learning using their
  Cloud Vertex AI platform.
 - Designed a Python-PySpark pipeline on Databricks, achieving 98.6% precision in PHI/PII de-identification.
  using SparkNLP models like ClinicalNER and De-identification NER.
 - Established a system to identify patterns in patient insurance claims, using the unsupervised clustering algorithm
  DBSCAN, achieving 98.5% precision and improving processing efficiency.
+</p>
 
  **_Software Engineer_**
+ <p style="text-align: justify;">
 - Developed a YOLOv5-based OCR system to extract patient vitals from PDFs, increasing extraction accuracy
  by 15% using OpenCV and TensorFlow.
 - Automatedaudio-to-text transcription with Microsoft’s Azure ASR (Automatic Speech Recognition), stream
 lining deployment with Jenkins and Docker
 </p>
+
 ## Projects
 ### Lane Detection for Autonomous Vehicles | ResNet, TensorFlow
 
+<p style="text-align: justify;">
 Engineered and prototyped a real-time lane detection system using Canny edge detection, Hough Transform, and ResNet-18, achieving 95% accuracy in lane classification and segmentation
+</p>
 
 ### Real-Time Vehicle Identification | CNN, OpenCV, TensorFlow
 [Publication](https://www.irjet.net/archives/V7/i5/IRJET-V7I51215.pdf)
 
+<p style="text-align: justify;">
 Constructed a vehicle license plate identification system. Processed 45000 frames with sub-2 second detection, handling low light, motion blur, and occlusions and achieving precision of 92%.
+</p>
 
 ## Publications
+<p style="text-align: justify;">
   Naveena K G, Sanjay S, Kushal K S, Manish M Naik, Sharadadevi S K, “Indian License Plate Number Detection Using Convolution Neural Networks”, 2020 International Research Journal of Engineering and Technology. [Link](https://www.irjet.net/archives/V7/i5/IRJET-V7I51215.pdf)
+</p>
 
+<p style="text-align: justify;">
   Sanjay S, Revathi S A, “Knee Osteoarthritis Progression & Classification Using Cartilage Damage Index & Machine LearningAlgorithms: A Literature Review”, 2020 International Research Journal of Engineering and Technology. [Link](https://www.irjet.net/archives/V7/i4/IRJET-V7I41123.pdf)
+</p>
 
 ## Lectures
+<p style="text-align: justify;">
 - Conducted a seminar on computer applications in the field of nursing in 2016, showcasing practical insights and applications to the audience.
 - Led training sessions on Azure Cognitive Services and Text Analytics for an audience of over 330 participants.
+</p>
