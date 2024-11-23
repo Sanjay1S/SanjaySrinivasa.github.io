@@ -15,6 +15,7 @@ _Python, C++, PyTorch, MySQL, Pandas, Docker, Sklearn, Statistics, Hadoop, Linux
 **UnitedHealth Group - Optum Applied Research Group (_July 2020 - August 2024_)**
 
 **_Associate AI/ML Engineer_**
+<p style="text-align: justify;">
 - Engineered a stacked ensemble model combining random forests, gradient boosting, and logistic regres
 sion to prioritize patient collections, increasing hospital collection rates by 70%.
 - Implemented a multi-stage NLP pipeline using GPT 3.5, Vicuna, and DistilBERT, enhancing call center
@@ -40,7 +41,7 @@ sion to prioritize patient collections, increasing hospital collection rates by 
  by 15% using OpenCV and TensorFlow.
 - Automatedaudio-to-text transcription with Microsoft’s Azure ASR (Automatic Speech Recognition), stream
 lining deployment with Jenkins and Docker
-
+</p>
 ## Projects
 ### Lane Detection for Autonomous Vehicles | ResNet, TensorFlow
 
