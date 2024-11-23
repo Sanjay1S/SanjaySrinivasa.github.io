@@ -77,12 +77,16 @@ Constructed a vehicle license plate identification system. Processed 45000 frame
 
 ## Publications
 <p style="text-align: justify;">
-  Naveena K G, Sanjay S, Kushal K S, Manish M Naik, Sharadadevi S K, “Indian License Plate Number Detection Using Convolution Neural Networks”, 2020 International Research Journal of Engineering and Technology. [Link](https://www.irjet.net/archives/V7/i5/IRJET-V7I51215.pdf)
+  Naveena K G, Sanjay S, Kushal K S, Manish M Naik, Sharadadevi S K, “Indian License Plate Number Detection Using Convolution Neural Networks”, 2020 International Research Journal of Engineering and Technology. 
 </p>
 
+[Link](https://www.irjet.net/archives/V7/i5/IRJET-V7I51215.pdf)
+
 <p style="text-align: justify;">
-  Sanjay S, Revathi S A, “Knee Osteoarthritis Progression & Classification Using Cartilage Damage Index & Machine LearningAlgorithms: A Literature Review”, 2020 International Research Journal of Engineering and Technology. [Link](https://www.irjet.net/archives/V7/i4/IRJET-V7I41123.pdf)
+  Sanjay S, Revathi S A, “Knee Osteoarthritis Progression & Classification Using Cartilage Damage Index & Machine LearningAlgorithms: A Literature Review”, 2020 International Research Journal of Engineering and Technology. 
 </p>
+
+[Link](https://www.irjet.net/archives/V7/i4/IRJET-V7I41123.pdf)
 
 ## Lectures
 <p style="text-align: justify;">
