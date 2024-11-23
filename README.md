@@ -6,7 +6,7 @@
 
 ## Education
 - M.S., Computer Science  |  University of California, Riverisde (_Sept 2024 - Mar 2026_)								       		
-- B.E., Computer Science  |  R V College of Engineering (_Aug 2017 - Jun 2020_)	 			        		
+- B.E., Computer Science  | R V College of Engineering (_Aug 2017 - Jun 2020_)	 			        		
 
 ## Skills
 _Python, C++, PyTorch, MySQL, Pandas, Docker, Sklearn, Statistics, Hadoop, Linux, Azure, Azure, OpenCV_
@@ -18,13 +18,21 @@ _Python, C++, PyTorch, MySQL, Pandas, Docker, Sklearn, Statistics, Hadoop, Linux
 <p style="text-align: justify;">
 - Engineered a stacked ensemble model combining random forests, gradient boosting, and logistic regres
 sion to prioritize patient collections, increasing hospital collection rates by 70%.
+</p>
+<p style="text-align: justify;">
 - Implemented a multi-stage NLP pipeline using GPT 3.5, Vicuna, and DistilBERT, enhancing call center
  performance, reducing repeat calls, and boosting Net Promoter Score by 82%.
+ </p>
+<p style="text-align: justify;">
 - Researched and fine-tuned Microsoft’s small language model (SLM) Phi-2 (2.7B) for question-answering
  tasks on clinical reports, achieving minimal precision loss compared to larger LLMs.
+ </p>
+<p style="text-align: justify;">
 - Applied linear and per-channel quantization on VGG (Visual Geometry Group) CNN model with just
  <0.2% accuracy loss, enabling faster processing of medical claim images to accelerate insurance approvals and
  reduce delays.
+ </p>
+<p style="text-align: justify;">
 - Developed RAG (Retrieval-Augmented Generation) system with semantic chunking to assist call agents in
  answering provider and patient queries, reducing LLM hallucination and improving response accuracy by 15%.
 </p>
@@ -33,8 +41,12 @@ sion to prioritize patient collections, increasing hospital collection rates by 
  <p style="text-align: justify;">
 - Collaborated with Google to evaluate generative AI LLMs on Zero-Shot and Few-Shot learning using their
  Cloud Vertex AI platform.
+ </p>
+<p style="text-align: justify;">
 - Designed a Python-PySpark pipeline on Databricks, achieving 98.6% precision in PHI/PII de-identification.
  using SparkNLP models like ClinicalNER and De-identification NER.
+ </p>
+<p style="text-align: justify;">
 - Established a system to identify patterns in patient insurance claims, using the unsupervised clustering algorithm
  DBSCAN, achieving 98.5% precision and improving processing efficiency.
 </p>
@@ -43,6 +55,8 @@ sion to prioritize patient collections, increasing hospital collection rates by 
  <p style="text-align: justify;">
 - Developed a YOLOv5-based OCR system to extract patient vitals from PDFs, increasing extraction accuracy
  by 15% using OpenCV and TensorFlow.
+ </p>
+<p style="text-align: justify;">
 - Automatedaudio-to-text transcription with Microsoft’s Azure ASR (Automatic Speech Recognition), stream
 lining deployment with Jenkins and Docker
 </p>
@@ -73,5 +87,7 @@ Constructed a vehicle license plate identification system. Processed 45000 frame
 ## Lectures
 <p style="text-align: justify;">
 - Conducted a seminar on computer applications in the field of nursing in 2016, showcasing practical insights and applications to the audience.
+</p>
+<p style="text-align: justify;">
 - Led training sessions on Azure Cognitive Services and Text Analytics for an audience of over 330 participants.
 </p>
