@@ -1,97 +1,47 @@
-# Hi, I'm a Graduate Student at University of California, Riverside (UCR)
+<div align="center">
+<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
+</div>
 
-#### Major: Computer Science & Engineering
-#### Specialization: Machine Learning & Natural Language Processing
-#### Interest: Multi-Modal Large Language Model(LLM), Model Optimizations
+# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
 
-## Education
-- M.S., Computer Science  |  University of California, Riverisde (_Sept 2024 - Mar 2026_)								       		
-- B.E., Computer Science  | R V College of Engineering (_Aug 2017 - Jun 2020_)	 			        		
+Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
 
-## Skills
-_Python, C++, PyTorch, MySQL, Pandas, Docker, Sklearn, Statistics, Hadoop, Linux, Azure, Azure, OpenCV_
-## Work Experience
+# Features
 
-**UnitedHealth Group - Optum Applied Research Group (_July 2020 - August 2024_)**
+- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
+- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
+- Includes a blog
+- Responsive for different devices
+- Optimized for Next.js and Vercel
 
-**_Associate AI/ML Engineer_**
-<p style="text-align: justify;">
-- Engineered a stacked ensemble model combining random forests, gradient boosting, and logistic regres
-sion to prioritize patient collections, increasing hospital collection rates by 70%.
-</p>
-<p style="text-align: justify;">
-- Implemented a multi-stage NLP pipeline using GPT 3.5, Vicuna, and DistilBERT, enhancing call center
- performance, reducing repeat calls, and boosting Net Promoter Score by 82%.
- </p>
-<p style="text-align: justify;">
-- Researched and fine-tuned Microsoft’s small language model (SLM) Phi-2 (2.7B) for question-answering
- tasks on clinical reports, achieving minimal precision loss compared to larger LLMs.
- </p>
-<p style="text-align: justify;">
-- Applied linear and per-channel quantization on VGG (Visual Geometry Group) CNN model with just
- <0.2% accuracy loss, enabling faster processing of medical claim images to accelerate insurance approvals and
- reduce delays.
- </p>
-<p style="text-align: justify;">
-- Developed RAG (Retrieval-Augmented Generation) system with semantic chunking to assist call agents in
- answering provider and patient queries, reducing LLM hallucination and improving response accuracy by 15%.
-</p>
+# Getting Started Locally
 
- **_Data Scientist_**
- <p style="text-align: justify;">
-- Collaborated with Google to evaluate generative AI LLMs on Zero-Shot and Few-Shot learning using their
- Cloud Vertex AI platform.
- </p>
-<p style="text-align: justify;">
-- Designed a Python-PySpark pipeline on Databricks, achieving 98.6% precision in PHI/PII de-identification.
- using SparkNLP models like ClinicalNER and De-identification NER.
- </p>
-<p style="text-align: justify;">
-- Established a system to identify patterns in patient insurance claims, using the unsupervised clustering algorithm
- DBSCAN, achieving 98.5% precision and improving processing efficiency.
-</p>
+1. Clone this repository to your local machine:
 
- **_Software Engineer_**
- <p style="text-align: justify;">
-- Developed a YOLOv5-based OCR system to extract patient vitals from PDFs, increasing extraction accuracy
- by 15% using OpenCV and TensorFlow.
- </p>
-<p style="text-align: justify;">
-- Automatedaudio-to-text transcription with Microsoft’s Azure ASR (Automatic Speech Recognition), stream
-lining deployment with Jenkins and Docker
-</p>
+   ```bash
+   git clone https://github.com/dillionverma/portfolio
+   ```
 
-## Projects
-### Lane Detection for Autonomous Vehicles | ResNet, TensorFlow
+2. Move to the cloned directory
 
-<p style="text-align: justify;">
-Engineered and prototyped a real-time lane detection system using Canny edge detection, Hough Transform, and ResNet-18, achieving 95% accuracy in lane classification and segmentation
-</p>
+   ```bash
+   cd portfolio
+   ```
 
-### Real-Time Vehicle Identification | CNN, OpenCV, TensorFlow
-[Publication](https://www.irjet.net/archives/V7/i5/IRJET-V7I51215.pdf)
+3. Install dependencies:
 
-<p style="text-align: justify;">
-Constructed a vehicle license plate identification system. Processed 45000 frames with sub-2 second detection, handling low light, motion blur, and occlusions and achieving precision of 92%.
-</p>
+   ```bash
+   pnpm install
+   ```
 
-## Publications
-<p style="text-align: justify;">
-  Naveena K G, Sanjay S, Kushal K S, Manish M Naik, Sharadadevi S K, “Indian License Plate Number Detection Using Convolution Neural Networks”, 2020 International Research Journal of Engineering and Technology. 
-</p>
+4. Start the local Server:
 
-[Link](https://www.irjet.net/archives/V7/i5/IRJET-V7I51215.pdf)
+   ```bash
+   pnpm dev
+   ```
 
-<p style="text-align: justify;">
-  Sanjay S, Revathi S A, “Knee Osteoarthritis Progression & Classification Using Cartilage Damage Index & Machine LearningAlgorithms: A Literature Review”, 2020 International Research Journal of Engineering and Technology. 
-</p>
+5. Open the [Config file](./src/data/resume.tsx) and make changes
 
-[Link](https://www.irjet.net/archives/V7/i4/IRJET-V7I41123.pdf)
+# License
 
-## Lectures
-<p style="text-align: justify;">
-- Conducted a seminar on computer applications in the field of nursing in 2016, showcasing practical insights and applications to the audience.
-</p>
-<p style="text-align: justify;">
-- Led training sessions on Azure Cognitive Services and Text Analytics for an audience of over 330 participants.
-</p>
+Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
