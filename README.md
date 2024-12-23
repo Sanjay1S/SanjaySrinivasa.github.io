@@ -1,7 +1,7 @@
 # Hi, I'm a Graduate Student at University of California, Riverside (UCR)
 
 #### Major: Computer Science & Engineering
-#### Specialization: Machine Learning & Natural Language
+#### Specialization: Machine Learning & Natural Language Processing
 #### Interest: Multi-Modal Large Language Model(LLM), Model Optimizations
 
 ## Education
