@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Dillion Verma",
+  name: "Sanjay Srinivasa",
   initials: "DV",
   url: "https://sanjay1s.github.io",
   location: "San Francisco, CA",
