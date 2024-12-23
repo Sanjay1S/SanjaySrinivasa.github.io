@@ -77,7 +77,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Bitcoin Protocol Engineer",
-      logoUrl: "/atomic.png",
+      logoUrl: "public/atomic.png",
       start: "May 2021",
       end: "Oct 2022",
       description:
