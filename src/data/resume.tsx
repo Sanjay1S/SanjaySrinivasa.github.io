@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Dillion Verma",
   initials: "DV",
-  url: "https://dillion.io",
+  url: "https://sanjay1s.github.io",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
@@ -77,7 +77,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Bitcoin Protocol Engineer",
-      logoUrl: "public/atomic.png",
+      logoUrl: "atomic.png",
       start: "May 2021",
       end: "Oct 2022",
       description:
