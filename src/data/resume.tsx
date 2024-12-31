@@ -103,8 +103,8 @@ export const DATA = {
       location: "Hybrid",
       title: "Data Scientist",
       logoUrl: "optum.png",
-      start: "July 2020",
-      end: "August 2024",
+      start: "March 2023",
+      end: "Oct 2023",
       description:
         "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
     },
@@ -115,8 +115,8 @@ export const DATA = {
       location: "Hybrid",
       title: "Associate Software Engineer",
       logoUrl: "optum.png",
-      start: "",
-      end: "",
+      start: "Nov 2020",
+      end: "Mar 2023",
       description:
         "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
     }
