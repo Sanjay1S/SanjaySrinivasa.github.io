@@ -125,7 +125,7 @@ export const DATA = {
     {
       school: "University of California, Riverside",
       href: "https://ucr.edu",
-      degree: "Master's Degree of Computer Science (BCS)",
+      degree: "Master's Degree of Computer Science (MSCS)",
       logoUrl: "ucr.jpg",
       start: "September 2024",
       end: "December 2025",
