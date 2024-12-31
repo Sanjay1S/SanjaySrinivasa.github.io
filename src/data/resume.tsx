@@ -8,12 +8,25 @@ export const DATA = {
   location: "Riverside, CA",
   locationLink: "https://www.google.com/maps/place/Riverside",
   description:
-    "Graduate student at University of California, Riverside. My current focused area of interest is on Natural Language Processing (NLP), large language models (LLMs), and retrieval-augmented generation (RAG).",
+    "I am a graduate student at the University of California, Riverside, with a focus on Natural Language Processing (NLP), large language models (LLMs), and retrieval-augmented generation (RAG).",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "Graduate student at the University of California, Riverside, with four years of experience in AI and ML, specializing in Natural Language Processing (NLP), large language models (LLMs), and retrieval-augmented generation (RAG). My work focuses on fine-tuning LLMs, optimizing information retrieval systems, and leveraging big data to develop efficient and accurate AI solutions.",
   avatarUrl: "me.png",
   skills: [
-    "React",
+    "Python",
+    "Next.js",
+    "Typescript",
+    "Node.js",
+    "Python",
+    "Go",
+    "Postgres",
+    "Docker",
+    "Kubernetes",
+    "Java",
+    "C++",
+  ],
+  Frameworks_skills: [
+    "Python",
     "Next.js",
     "Typescript",
     "Node.js",
