@@ -40,7 +40,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    // { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
     email: "ssrin054@ucr.edu",
@@ -67,12 +67,12 @@ export const DATA = {
 
         navbar: true,
       },
-      // Youtube: {
-      //   name: "Youtube",
-      //   url: "https://dub.sh/dillion-youtube",
-      //   icon: Icons.youtube,
-      //   navbar: true,
-      // },
+      Youtube: {
+        name: "Youtube",
+        url: "https://dub.sh/dillion-youtube",
+        icon: Icons.youtube,
+        navbar: true,
+      },
       email: {
         name: "Send Email",
         url: "#",
@@ -97,12 +97,12 @@ export const DATA = {
         "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
     },
     {
-      // company: "Shopify",
+      company: "Shopify",
       badges: [],
       href: "https://shopify.com",
       location: "Remote",
       title: "Software Engineer",
-      // logoUrl: "shopify.svg",
+      logoUrl: "shopify.svg",
       start: "January 2021",
       end: "April 2021",
       description:
