@@ -78,7 +78,7 @@ export const DATA = {
         url: "#",
         icon: Icons.email,
 
-        navbar: false,
+        navbar: true,
       },
     },
   },
@@ -97,14 +97,14 @@ export const DATA = {
         "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
     },
     {
-      company: "Shopify",
+      company: "",
       badges: [],
       href: "https://shopify.com",
       location: "Remote",
-      title: "Software Engineer",
-      logoUrl: "shopify.svg",
-      start: "January 2021",
-      end: "April 2021",
+      title: "Data Scientist",
+      logoUrl: "",
+      start: "",
+      end: "",
       description:
         "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
     },
