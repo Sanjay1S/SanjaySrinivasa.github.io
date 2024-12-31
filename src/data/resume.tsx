@@ -55,7 +55,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "www.linkedin.com/in/sanjay-srinivasa-31668915a",
+        url: "https://www.linkedin.com/in/sanjay-srinivasa-31668915a",
         icon: Icons.linkedin,
 
         navbar: true,
@@ -67,12 +67,12 @@ export const DATA = {
 
         navbar: true,
       },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
-        navbar: true,
-      },
+      // Youtube: {
+      //   name: "Youtube",
+      //   url: "https://dub.sh/dillion-youtube",
+      //   icon: Icons.youtube,
+      //   navbar: true,
+      // },
       email: {
         name: "Send Email",
         url: "#",
