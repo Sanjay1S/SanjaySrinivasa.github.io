@@ -97,12 +97,12 @@ export const DATA = {
         "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
     },
     {
-      company: "",
+      // company: "",
       badges: [],
       href: "https://shopify.com",
       location: "Remote",
       title: "Data Scientist",
-      logoUrl: "",
+      // logoUrl: "",
       start: "",
       end: "",
       description:
